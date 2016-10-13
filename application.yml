@@ -1,0 +1,14 @@
+fortune:
+  messages:
+    - "config - Table"
+    - "config - Chair"
+    - "config - TV"
+    - "config - Room"
+    - "config - Wire"
+    - "config - Remote"
+
+logging:
+  level:
+    root: WARN
+    org.springframework.web: WARN
+    io.spring.cloud.samples: INFO
